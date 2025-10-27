@@ -1,2 +1,2 @@
-# acls_git_25
+# My very great ACLS Git demo
 ACLS Git Introduction
