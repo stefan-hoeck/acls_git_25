@@ -17,3 +17,6 @@ Important git commands:
 * `git log`: List all git commits in reversed chronological order
 * `git diff`: Show difference between staged version of file and
   local changes.
+* `git branch [name]`: Create a new branch.
+* `git branch`: List all current branches.
+* `git checkout [name]`: Switch to branch "name".
