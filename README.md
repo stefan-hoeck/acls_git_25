@@ -14,3 +14,6 @@ Important git commands:
   already known to git.
 * `git push origin [branch]`: Push the changes made to a branch
   to the project's origin (usually GitHub).
+* `git log`: List all git commits in reversed chronological order
+* `git diff`: Show difference between staged version of file and
+  local changes.
