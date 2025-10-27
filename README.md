@@ -8,5 +8,9 @@ Important git commands:
   version control.
 * `git add [file-name]`: Put a new file under version control,
   or add changes made to a file to the version control system.
+* `git commit -m "message"`: Commit changes with the given
+  commit message.
+* `git commit -am "message"`: Commit changes made to all files
+  already known to git.
 * `git push origin [branch]`: Push the changes made to a branch
   to the project's origin (usually GitHub).
