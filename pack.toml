@@ -1,0 +1,4 @@
+[custom.all.acls]
+type = "local"
+path = "."
+ipkg = "acls.ipkg"

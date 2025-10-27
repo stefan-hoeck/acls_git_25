@@ -1,0 +1,11 @@
+package acls
+version = 0.1.0
+authors = "stefan-hoeck"
+license = "BSD-3"
+brief   = "Refinement types in Idris2"
+
+depends = base
+
+sourcedir = "src"
+main = Main
+executable = "acl"
