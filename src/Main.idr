@@ -3,4 +3,4 @@ module Main
 %default total
 
 main : IO ()
-main = putStrLn "Hello Stefan"
+main = putStrLn "Hello Aliens"
